@@ -1,0 +1,1 @@
+<p class="pull-right">&copy; Video Portal 2012</p>

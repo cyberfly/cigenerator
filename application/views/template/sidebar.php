@@ -1,0 +1,1 @@
+<?php $sidebar = (isset($sidebar) ? $sidebar : 'sidebar/general_sidebar');  $this->load->view($sidebar); ?>
