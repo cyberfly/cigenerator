@@ -18,9 +18,8 @@ just keep it to myself, I think maybe I can make it open source to improve it an
 How to setup
 ============
 
-1.Set your base_url in application/config/config.php
-2.Set your database connection at application/config/database.php
-3.Change builds folder permission to 0777 if you are on unix platform (linux/mac)
+1. Set your database connection at application/config/database.php
+2. Change builds folder permission to 0777 if you are on unix platform (linux/mac)
 
 How to use
 ==========
