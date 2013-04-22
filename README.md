@@ -38,6 +38,6 @@ FK example : department_id, staff_id, position_id
 
 By using same field name, we can auto generate relationship between 2 tables
 
-Sample database will be uploaded later.
+Sample database for testing : sample_db.sql
 
 
