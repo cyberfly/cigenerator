@@ -5,7 +5,6 @@ class Generator extends CI_Controller {
 	public function __construct()
     {
         parent::__construct();
-        $this->load->model('video_model');
         $this->use_lang = FALSE; //if set to true, it will use lang file instead of harcode the form label
         $this->use_gebo = FALSE; //if set to true, it will use gebo style for template
         $this->save_button_label = generate_button_key('save',$this->use_lang);
