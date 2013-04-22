@@ -37,12 +37,29 @@
     <?php echo $controller_content; ?>
     </pre>
 
+    <h3>Model</h3>
+
+    <pre class="prettyprint pre-scrollable">
+    <?php echo $model_content; ?>
+    </pre>
+
+    <h3>List Table</h3>
+
+    <pre class="prettyprint pre-scrollable">
+    <?php echo $list_content; ?>
+    </pre>
+
     <h3>JS</h3>
 
     <pre class="prettyprint pre-scrollable">
     <?php echo $js_content; ?>
     </pre>
 
+    <h3>Lang</h3>
+
+    <pre class="prettyprint pre-scrollable">
+    <?php echo $lang_content; ?>
+    </pre>
 
     <h3>Object</h3>
 
