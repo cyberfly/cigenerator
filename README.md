@@ -3,6 +3,10 @@ cigenerator
 
 Code generator for CodeIgniter + Twitter Bootstrap + My Model. Built on top of CodeIgniter.
 
+DEMO
+
+http://dora.my/cigenerator/
+
 about cigenerator
 =================
 
